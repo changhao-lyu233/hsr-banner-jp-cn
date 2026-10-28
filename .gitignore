@@ -1,0 +1,16 @@
+# 本地工作笔记，不公开
+CLAUDE.md
+HANDOFF.md
+review_*.md
+_archive/
+
+# 七麦导出的原始数据，不公开（见 README）
+data/raw/qimai_*
+
+# AI 整理的原始资料（打分表里已有所需条目）
+data/manual/sources/
+
+# Python 和 Office 的临时文件
+__pycache__/
+*.pyc
+~$*
